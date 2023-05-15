@@ -1,5 +1,6 @@
 # qaguru_hw_10
-1. 
+
+1.
 
 – Запаковать в zip архив несколько разных файлов - pdf, xlsx, csv
 
@@ -9,8 +10,9 @@
 
 2.
 
-– Реализовать разбор json  файла библиотекой Jackson https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core/2.13.1
+– Реализовать разбор json файла библиотекой
+Jackson https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core/2.13.1
 
-– Придумать реальный объект и описать его в виде  json
+– Придумать реальный объект и описать его в виде json
 
 – В идеале json должен содержать массив
